@@ -101,6 +101,7 @@
      -webkit-box-pack: center;
          -ms-flex-pack: center;
              justify-content: center;
+     border: 0.5px solid #CECECE;
 }
 
 .s2-box1 h3 {
@@ -156,6 +157,7 @@
      background-image: url(../img/s2-img.png);
      background-size: cover;
      background-position: center;
+     border: 0.5px solid #CECECE;
 }
 
                                                                   /* section 3 */
