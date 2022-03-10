@@ -32,9 +32,21 @@
 
                                                                   /* section 3 */
 
+    .s3-head-box {
+        height: 180px;
+    }
+    
+    .s3-head-box h3 {
+        max-width: 270px;
+        height: 80px;
+    }
    .s3-box {
         max-width: 280px;
         height: 374px;
    }
+
+   .s3-head-box p {
+       height: 97px;
+    }
 
 }
