@@ -1,7 +1,53 @@
 
 @media ( max-width: 770px ) {
+ 
+                                                                  /* header */
+ 
+
     .header-h1 {
         font-size: 80px;
     }
-        
+    
+    .nav-box { 
+        width: 300px;
+    }
+
+                                                                  /* section 2 */
+
+    .s2-box1 {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .s2-box1 h3 {
+        height: initial;
+        font-size: 40px;
+    }
+
+    .s2-box1 p {
+        height: initial;
+        padding-bottom: 50px;
+    }
+
+                                                                  /* section 3 */
+
+    .s3-big-box {
+        max-width: 600px;
+    }
+    
+    .s3-box {
+        max-width: 220px;
+        width: 100%;
+        height: 100%;
+        padding: 0 10px;
+    }
+
+    .s3-box p {
+        max-width: 251px;
+        width: 100%;
+        height: 100%;
+        margin-top: 9px;
+    }
+ 
+
 }

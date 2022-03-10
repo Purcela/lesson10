@@ -13,11 +13,28 @@
         color: #57b9f5;
     }
 
+                                                                  /* section 2 */
 
+    .s2-box1 {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
 
+    .s2-box1 h3 {
+        font-size: 30px;
+        line-height: normal;
+   }
+   
+   .s2-box1 p {
+        line-height: normal;
+        margin-top: 24px;
+   }
 
+                                                                  /* section 3 */
 
-
-
+   .s3-box {
+        max-width: 280px;
+        height: 374px;
+   }
 
 }
